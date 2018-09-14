@@ -1,0 +1,7 @@
+编写可维护的JavaScript
+
+1.7 
+    Q：什么是自解释？
+        O：JS中原始的类型中只有布尔值是自解释的（self-explanatory）
+        A：
+  
