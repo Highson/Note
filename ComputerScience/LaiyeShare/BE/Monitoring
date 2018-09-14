@@ -1,0 +1,19 @@
+
+    zhangyong@laiye.com 20180914
+
+        GC duration
+        回归分析 线上debug
+        Prometheus 
+        SRE Book
+        微服务 - 组件做某些事情
+        系统扩容
+        Linux哲学
+        一个系统应该监控什么（4个）：延迟 流量 错误 饱和
+        HA 集群
+        HTTP 服务、gRPC 服务
+        服务发现 
+        etcd 存储 + confd渲染新的配置文件
+        服务发现的好处 vs 静态配置（ip 端口 工作量大
+        docker docker.sock consul保存数据
+        拦截器：统一拦截-验签
+
